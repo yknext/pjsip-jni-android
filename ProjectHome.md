@@ -1,0 +1,3 @@
+Provides android specific patches for PJSIP and pjsip-jni. You can use this project to implement a SIP client on Android. This project uses code from [pjsip](http://www.pjsip.org/) (GPL / commercial), [pjsip-jni](https://sourceforge.net/projects/pjsip-jni/) and [Csipsimple](http://code.google.com/p/csipsimple/).
+
+This project is kindly sponsored by [acoveo software development](http://www.acoveo.com).
